@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 91268d3866ab4e04398fdfefacdfb3d0
+timeCreated: 1517001487
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Aarcover
+  fontNames:
+  - Aarcover
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
